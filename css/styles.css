@@ -1,3 +1,37 @@
-/**{
-  color: blue;
+*{
+  padding: 0;
+}
+body {
+  padding-top: 50px;
+  /*background-color: #E8C9A2;*/
+
+}
+#texture{
+  background-image: url("images/background.jpg");
+}
+
+.jumbotron{
+  background-color: #2E2D88;
+  color:white;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+.nav-tabs {
+  margin-bottom: 0;
+}
+/*.image {
+  background-image: url("images/crab.jpg");
+  background-size: cover;
+  background-attachment: fixed;
 }*/
+.header_style {
+  background-color: rgba(113,9,39,1);
+}
+.nav{
+  color: white;
+}
