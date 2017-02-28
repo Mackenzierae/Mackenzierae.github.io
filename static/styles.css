@@ -104,6 +104,12 @@ h3, h4 {
     -webkit-filter: sepia(25%);
     filter: sepia(25%);
 }
+/*googlemap attempt*/
+#map{
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+}
 .navbar {
     font-family: Montserrat, sans-serif;
     margin-bottom: 0;
